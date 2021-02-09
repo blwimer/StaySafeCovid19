@@ -6,5 +6,8 @@ An application to direct when and where it is time for a person to receive the C
 ### Approach
 
 ### Team Members
-
+Brianna Wimer
+Wanpeng Liu
+Josh Smith
+Joseph Tadesse
 
