@@ -5,6 +5,9 @@ An application to direct when and where it is time for a person to receive the C
 
 ### Approach
 
+![image](https://user-images.githubusercontent.com/62617888/107427325-e3b14500-6ae6-11eb-84a6-2b2fa9e6f1f8.png)
+
+
 ### Team Members
 Brianna Wimer
 Wanpeng Liu
