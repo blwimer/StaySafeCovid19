@@ -9,7 +9,7 @@ An application to direct when and where it is time for a person to receive the C
   
 
 <details>
-<summary>Click to see the experience</summary>
+<summary>Click to see screenshots of what a user can expect when using the application</summary>
 - <img width="215" alt="home" src="https://user-images.githubusercontent.com/62617888/107789377-1d689280-6d17-11eb-807e-b4067ed82bb2.png"> 
 - <img width="215" alt="495-1" src="https://user-images.githubusercontent.com/62617888/107788618-39b7ff80-6d16-11eb-8e0a-657bc37b0d54.png">
 - <img width="215" alt="495-2" src="https://user-images.githubusercontent.com/62617888/107788638-3e7cb380-6d16-11eb-96fd-3ab4a1851d3e.png">
