@@ -7,7 +7,7 @@ An application to direct when and where it is time for a person to receive the C
 * Tools/APIs/Frameworks
   -We plan to use React Native to make this an ios and an android application. Within the application, we will create a database system for user log ins. When the user logs in, they can take questionnaires to determine if they should get tested for covid or help people learn if they are eligible or not for the vaccine. If users are elibile, we plan to have an interactive map to help users find a vaccine location. If the user happens to be able to get the vaccine, the application will be able to send reminders to users for when it is time to get their first vaccination shot after they have it scheduling with one of our provided locations, and when they should plan for their second vaccination shot. After the user gets their full vaccination, the application will have a QR code generator that people may use so they can prove they had the vaccination. 
   
-* Experience
+* Experience - Here are some screenshots of what a user can expect when using our application
 <img width="216" alt="home" src="https://user-images.githubusercontent.com/62617888/107789377-1d689280-6d17-11eb-807e-b4067ed82bb2.png">
 <img width="207" alt="495-1" src="https://user-images.githubusercontent.com/62617888/107788618-39b7ff80-6d16-11eb-8e0a-657bc37b0d54.png">
 <img width="212" alt="495-2" src="https://user-images.githubusercontent.com/62617888/107788638-3e7cb380-6d16-11eb-96fd-3ab4a1851d3e.png">
