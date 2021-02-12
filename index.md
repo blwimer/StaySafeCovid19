@@ -6,7 +6,7 @@ An application to direct when and where it is time for a person to receive the C
 ### Approach
 * Tools/APIs/Frameworks
 * Experience
-![image](https://user-images.githubusercontent.com/62617888/107427325-e3b14500-6ae6-11eb-84a6-2b2fa9e6f1f8.png)
+<img width="216" alt="home" src="https://user-images.githubusercontent.com/62617888/107789377-1d689280-6d17-11eb-807e-b4067ed82bb2.png">
 <img width="207" alt="495-1" src="https://user-images.githubusercontent.com/62617888/107788618-39b7ff80-6d16-11eb-8e0a-657bc37b0d54.png">
 <img width="212" alt="495-2" src="https://user-images.githubusercontent.com/62617888/107788638-3e7cb380-6d16-11eb-96fd-3ab4a1851d3e.png">
 <img width="289" alt="495-3" src="https://user-images.githubusercontent.com/62617888/107788645-4177a400-6d16-11eb-9fdf-d3bfaebb1438.png">
