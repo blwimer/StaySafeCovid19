@@ -21,6 +21,14 @@ An application to direct when and where it is time for a person to receive the C
 - <img width="215" alt="495-10" src="https://user-images.githubusercontent.com/62617888/107788737-5f450900-6d16-11eb-9cbe-562dda93f044.png">
 </details>
 
+### Link to Repo
+
+https://github.com/briannawimer/StaySafe
+
+### Presentation Video
+
+
+
 ### Team Members
 Brianna Wimer
 Wanpeng Liu
