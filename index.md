@@ -3,7 +3,7 @@ An application to direct when and where it is time for a person to receive the C
 
 ### Approach
 * Tools/APIs/Frameworks
-  -We plan to use React Native to make this an ios and an android application. Within the application, we will create a database system for user log ins. When the user logs in, they can take questionnaires to determine if they should get tested for covid or help people learn if they are eligible or not for the vaccine. If users are elibile, we plan to have an interactive map to help users find a vaccine location. If the user happens to be able to get the vaccine, the application will be able to send reminders to users for when it is time to get their first vaccination shot after they have it scheduling with one of our provided locations, and when they should plan for their second vaccination shot. After the user gets their full vaccination, the application will have a QR code generator that people may use so they can prove they had the vaccination. 
+  - We used React Native as our main framework to create this application. However, we learned to use a lot of extra libraries to make our application more user accessible such as React Native Elements. To create this application, we also often used Expo Go and Snack as simulators to see if we were creating the application how we wanted to. For most of the information from our application, we directed the user to the same information on Alabama's Public Health Website; however, their website was not as efficient as it should have been and lagged a lot. For our Logins, we used Firebase as the database for usersz who registered an account within the application. We could not add the function of a Forgot Password screen though because with this, we would have needed to purchase this funcytionality from Firebase. 
   
 
 <details>
@@ -26,6 +26,7 @@ An application to direct when and where it is time for a person to receive the C
 https://github.com/briannawimer/StaySafe
 
 ### Presentation Video
+
 
 
 
