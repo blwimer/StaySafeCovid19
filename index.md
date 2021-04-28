@@ -26,7 +26,7 @@ An application to direct when and where it is time for a person to receive the C
 https://github.com/briannawimer/StaySafe
 
 ### Presentation Video
-
+https://github.com/blwimer/StaySafeCovid19/blob/gh-pages/sprint3%20presentation.mp4
 
 
 
