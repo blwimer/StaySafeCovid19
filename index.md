@@ -4,9 +4,8 @@ An application to direct when and where it is time for a person to receive the C
 ### Approach
 * Tools/APIs/Frameworks
   - We used React Native as our main framework to create this application. However, we learned to use a lot of extra libraries to make our application more user accessible such as React Native Elements. To create this application, we also often used Expo Go and Snack as simulators to see if we were creating the application how we wanted to. For most of the information from our application, we directed the user to the same information on Alabama's Public Health Website; however, their website was not as efficient as it should have been and lagged a lot. For our Logins, we used Firebase as the database for usersz who registered an account within the application. We could not add the function of a Forgot Password screen though because with this, we would have needed to purchase this funcytionality from Firebase. 
-  
-* Description of experience
-Our app mainly have three functional part, user part, COVID-19 part, as well as the vaccine part.
+ Description of experience 
+  Our app mainly have three functional part, user part, COVID-19 part, as well as the vaccine part.
 1) user part.
 User can register an account using their name, email, gender, phone number information.
 After registion, user can login with the password and email address.
@@ -21,6 +20,7 @@ When user want to check the case number of their county, they can access the cov
 user can use the vaccine self accessment to check if they are feasiable to take the vaccine base on their job type, age, health history.
 Also user can click on the vaccine map page to check the nearest place to get the vaccince.
 If user have any concern about which type vaccine they should take, what is the side effect, they can get the correct info when they click vaccine info page. 
+
 
 <details>
 <summary>Click to see screenshots of what a user can expect when using the application</summary>
